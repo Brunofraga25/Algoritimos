@@ -1,4 +1,5 @@
-const numeros = [4, 8, 15, 16, 23, 42];
+
+const numeros = [0, 2, 4, 8, 15, 16, 23, 28, 37, 42];
 
 const posicao = buscaLinear(numeros, 15);
 
